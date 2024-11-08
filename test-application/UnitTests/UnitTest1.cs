@@ -27,5 +27,11 @@ namespace UnitTests
         {
             Assert.Equal("Goodbye, John!", Messager.SayGoodbye("John"));
         }
+
+        [Fact]
+        public void Test5()
+        {
+            Assert.Equal(1, 2);
+        }
     }
 }
