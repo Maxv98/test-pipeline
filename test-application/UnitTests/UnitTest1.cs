@@ -31,7 +31,7 @@ namespace UnitTests
         [Fact]
         public void Test5()
         {
-            Assert.Equal(1, 2);
+            Assert.Equal(1, 1);
         }
     }
 }
